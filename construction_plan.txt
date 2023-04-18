@@ -1,0 +1,40 @@
+Construction Plan for Self-Sustainable Vertical Hydroponic Farm
+
+Materials Required:
+- Hydroponic trays
+- LED lights
+- Nutrient delivery system
+- Solar panels
+- Battery bank
+- Rainwater harvesting system
+- Composting system
+- PVC pipes
+- Water pumps
+- Water filters
+- Nutrient solution
+- Seeds
+
+Cost:
+- Hydroponic trays: $500
+- LED lights: $1000
+- Nutrient delivery system: $500
+- Solar panels: $2000
+- Battery bank: $1000
+- Rainwater harvesting system: $500
+- Composting system: $500
+- PVC pipes: $500
+- Water pumps: $500
+- Water filters: $500
+- Nutrient solution: $100
+- Seeds: $50
+
+Total cost: $8,150
+
+Timeline:
+- Week 1: Purchase materials
+- Week 2: Construct hydroponic system
+- Week 3: Install LED lights and nutrient delivery system
+- Week 4: Install solar panels and battery bank
+- Week 5: Install rainwater harvesting system and composting system
+- Week 6: Test and adjust system
+

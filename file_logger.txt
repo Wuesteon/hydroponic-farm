@@ -2,3 +2,9 @@ File Operation Logger write: efficient_technologies.txt
 write: vertical_hydroponic_farm_plan.txt
 write: vertical_hydroponic_farm.py
 write: hydroponic_system.py
+write: construction_plan.txt
+write: vertical_farm_best_practices.txt
+write: materials.txt
+write: efficient_materials.txt
+write: self_sustainable_hydroponic_farm.py
+write: vertical_hydroponic_farm.txt
